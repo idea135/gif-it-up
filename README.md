@@ -22,5 +22,5 @@
 ## Additional Resources
 - [HTML Image tags (see section on "Images on Another Server")](http://www.w3schools.com/html/html_images.asp)
 - [Making GIFs in Photoshop](https://blog.hubspot.com/marketing/how-to-create-animated-gif-quick-tip-ht#sm.000ewe287111nfdduta2a4blcpqf9)
-- [Adding background images in Twine](http://www.ohiofi.com/blog/twine-pictures-gifs-and-background-images/]
+- [Adding background images in Twine](http://www.ohiofi.com/blog/twine-pictures-gifs-and-background-images/)
 - [CSS in Twine for Newbs](https://twinery.org/forum/discussion/1528/css-is-your-friend-the-basics-of-changing-twines-default-appearance-for-newbs)
